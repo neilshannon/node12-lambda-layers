@@ -3,14 +3,18 @@ Serverless Node.js on AWS Lambda with Layers
 
 ## Summary
 
-In this talk I'll demonstrate how to customize AWS Lambda to run Node.js 12 using AWS Lambda Layers.
+Serverless technology offers some tremendous potential benefits for businesses that operate in the cloud.  
 
-#### Agenda
+Amazon was one of the first large providers of serverless compute capability in 2015 with [AWS Lambda](https://aws.amazon.com/lambda/).  Lambda is used in production by thousands of organizations today and has grown over the years in terms of supported runtimes (including Node.js) and the ability to run *any* custom runtime.
 
-- What is serverless?
-- Why do I care?
-- AWS Lambda basics
-- Demo
+For Node.js developers, AWS Lambda supports Node 8.x and 10.x.  In this talk I'll demonstrate how to customize AWS Lambda to run Node.js 12.x using AWS Lambda Layers.
+
+This talk will answer questions like:
+- So just what is serverless?  
+- Why would I want to use a serverless provider in the cloud?  
+- How do I write a serverless application?
+- How do I customize it?
+
 
 ## Prerequisites
 
